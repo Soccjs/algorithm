@@ -1,10 +1,12 @@
 ## Sort 
-  1. [Insertion](#Insertion)
-  1. [Selection](#Selection)
+
+  1. [Insertion(삽입정렬)](#Insertion)
+  1. [Selection(선택정렬)](#Selection)
+
 ---
   
 
-## Insertion
+## Insertion(삽입정렬)
 
 Basic principle :
 
@@ -47,7 +49,7 @@ print sorted	#[1, 2, 3, 4, 5]
 ```
 **[⬆ back to top](#Sort)**
 
-## Selection
+## Selection(선택정렬)
 
 Basic principle :
 
