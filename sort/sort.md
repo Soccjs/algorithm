@@ -1,13 +1,13 @@
-## Sort 
+## sort 
 
-  1. [Insertion(삽입정렬)](#Insertion)
-  1. [Selection(선택정렬)](#Selection)
-  1. [Merge(합병정렬)](#Merge)
-  
+  1. [Insertion](#insertion)
+  1. [Selection](#selection)
+  1. [Merge](#merge)
+
 ---
   
 
-## Insertion(삽입정렬)
+## Insertion
 
 Basic principle :
 
@@ -48,9 +48,10 @@ print unsorted	#[5, 3, 1, 2, 4]
 sorted = insertion(unsorted)
 print sorted	#[1, 2, 3, 4, 5]
 ```
-**[⬆ back to top](#Sort)**
 
-## Selection(선택정렬)
+**[⬆ back to top](#sort)**
+
+## Selection
 
 Basic principle :
 
@@ -94,9 +95,9 @@ print unsorted	#[5, 3, 1, 2, 4]
 sorted = selection(unsorted)
 print sorted	#[1, 2, 3, 4, 5]
 ```
-**[⬆ back to top](#Sort)**
+**[⬆ back to top](#sort)**
 
-## Merge(합병정렬)
+## Merge 
 
 Basic principle :
 
@@ -156,4 +157,4 @@ print unsorted	#[5, 4, 1, 8, 7, 2, 6, 3]
 sorted = mergesort(unsorted)
 print sorted #[1, 2, 3, 4, 5, 6, 7, 8]
 ```
-**[⬆ back to top](#Sort)**
+**[⬆ back to top](#sort)**
