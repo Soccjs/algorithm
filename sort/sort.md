@@ -2,7 +2,8 @@
 
   1. [Insertion(삽입정렬)](#Insertion)
   1. [Selection(선택정렬)](#Selection)
-
+  1. [Merge(합병정렬)](#Merge)
+  
 ---
   
 
