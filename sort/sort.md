@@ -1,8 +1,7 @@
-## Sort 
+## Sort
   1. [Insertion](#Insertion)
   1. [Selection](#Selection)
----
-  
+
 
 ## Insertion
 
